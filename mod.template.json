@@ -1,13 +1,13 @@
 {
   "_QPVersion": "0.1.1",
   "id": "${mod_id}",
-  "name": "Vivify2",
+  "name": "Vivify",
   "version": "0.4.11",
-  "author": "Braxed",
+  "author": "Lars27110",
   "modloader": "Scotland2",
   "packageId": "com.beatgames.beatsaber",
   "packageVersion": "1.40.8_7379",
-  "description": "Vivify Port from Axolotl, Built and Fixed By Braxed - visual-only note replacement fallback",
+  "description": "The best Vivify port for Quest!",
   "modFiles": [],
   "lateModFiles": [
     "libVivify.so"
