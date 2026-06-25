@@ -64,5 +64,4 @@ Below is the credits to most of this source. i do not want to steal code from ot
 
 * [Axo-lotl](https://github.com/axo-lotl)
 * [LookingForScripts1](https://github.com/Lookingforscripts1)
-
-I borrowed most of this code from LookingForScripts. Thank you to them for getting this port to work!
+* And a big thank you to [rbatteries1-design](https://github.com/rbatteries1-design) for [their mod](https://github.com/rbatteries1-design/Vivify-Quest-Port) which served as the basis for mine.
