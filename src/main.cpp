@@ -127,17 +127,17 @@ void RegisterModSettings() {
                                    SetMultipassRenderingEnabled(value);
                                    Vivify::RefreshMultipassRendering();
                                  });
-        BSML::Lite::CreateToggle(container->get_transform(), u"Vivify Debug Logging", GetVivifyDebugLogging(),
+        BSML::Lite::CreateToggle(container->get_transform(), u"Carbonify Debug Logging", GetVivifyDebugLogging(),
                                  [](bool value) { SetVivifyDebugLogging(value); });
         BSML::Lite::CreateToggle(container->get_transform(), u"Disable Beat 0 Filmgrain Blit",
                                  GetDisableBeat0FilmgrainBlit(),
                                  [](bool value) { SetDisableBeat0FilmgrainBlit(value); });
         BSML::Lite::CreateToggle(container->get_transform(), u"Disable All Blits", GetDisableAllBlits(),
                                  [](bool value) { SetDisableAllBlits(value); });
-        BSML::Lite::CreateToggle(container->get_transform(), u"Disable Custom Vivify Note Visuals",
+        BSML::Lite::CreateToggle(container->get_transform(), u"Disable Custom Carbonify Note Visuals",
                                  GetDisableCustomNoteVisuals(),
                                  [](bool value) { SetDisableCustomNoteVisuals(value); });
-        BSML::Lite::CreateToggle(container->get_transform(), u"Disable Vivify Visuals In Multiplayer",
+        BSML::Lite::CreateToggle(container->get_transform(), u"Disable Carbonify Visuals In Multiplayer",
                GetDisableVisualsInMultiplayer(),
                [](bool value) { SetDisableVisualsInMultiplayer(value); });
         BSML::Lite::CreateToggle(container->get_transform(), u"Disable CreateCamera/Depth",
