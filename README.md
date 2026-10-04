@@ -1,7 +1,7 @@
 # Carbonify Quest Port
 ------
 ## What does this improve?
-It brings numerous bug fixes and optimizations that keep your FPS at a stable level.
+literally nothing but a few name changes (this fork is for testing out c++)
 
 ## Installation For Making Your Own
 (You can make your own. give credits down below)
